@@ -7,8 +7,8 @@ Resume
 ###### ![mail](message.png) E-mail : fligger515@gmail.com
 ###### ![git](githubchar.png) GitHub 주소 : <https://github.com/fligger515>
 * * *
-###### ![interests](interest.png)Interested at : Computer Graphics / VR / Game Design / Charagter Design
-##### ![skills](setting.png)Skills - JAVA, C, Unix Shell
+###### ![interests](interest.png) Interested at : Computer Graphics / VR / Game Design / Charagter Design
+##### ![skills](setting.png) Skills - JAVA, C, Unix Shell
 
 ![timeline](timelinee.png) 2018. 2. 26 한림대학교 입학
 
