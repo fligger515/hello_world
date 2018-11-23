@@ -18,7 +18,7 @@ Resume
 
            학술동아리 '씨애랑' 동아리원
            
-![timeline](timeline.png) 2018. 11. 23
+![timeline](timelinee.png) 2018. 11. 23
            현재 한림대학교 Software Week 중 열리는 SW 전시회에 출품할 작품 제작 중
            ('DukeAdventure' 게임)
 * * *
