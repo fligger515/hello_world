@@ -8,7 +8,7 @@ Resume
 ###### GitHub 주소 : <https://github.com/fligger515>
 * * *
 ##### 관심 분야 : 영상처리, VR, 게임 개발  
-![VR](vr.jpg) |  ![GameDesign](Design.jpg) |  ![Graphics](Graphics.png)
+![VR](vr.jpg) |  ![GameDesign](Design.jpg) |  ![Graphics](Graphic.png)
 ##### Skills - JAVA, C, Unix Shell
 
 - 20185 . 2. 26 한림대학교 입학
