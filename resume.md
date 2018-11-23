@@ -7,7 +7,8 @@ Resume
 ###### 이메일 : fligger515@gmail.com
 ###### GitHub 주소 : <https://github.com/fligger515>
 * * *
-##### 관심 분야 : 영상처리, VR, 게임 개발
+##### 관심 분야 : 영상처리, VR, 게임 개발  
+![VR](vr.jpg) ![게임디자인](gameDesign) ![영상처리](graphic)
 ##### Skills - JAVA, C, Unix Shell
 
 - 20185 . 2. 26 한림대학교 입학
