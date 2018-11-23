@@ -3,15 +3,14 @@ Resume
 ### ![hallym](hallym.png) 한림대학교 소프트웨어대학 컨텐츠 IT, 디지털인문예술 전공
 #### 20185162 전유빈 (Jennifer Jeon)
 * * *
-###### ![hp](smartphone-call.png) H.P : 010-8668-3917
-###### ![mail](message-closed-envelope.png) E-mail : fligger515@gmail.com
-###### ![git](github-character.png) GitHub 주소 : <https://github.com/fligger515>
+###### ![hp](call.png) H.P : 010-8668-3917
+###### ![mail](message.png) E-mail : fligger515@gmail.com
+###### ![git](githubchar.png) GitHub 주소 : <https://github.com/fligger515>
 * * *
-###### ![interests](interest-point.png)Interested at : Computer Graphics / VR / Game Design / Charagter Design
-![VR](vr.jpg) |  ![GameDesign](Design.jpg) |  ![Graphics](Graphic.png)
-##### ![skills](settings.png)Skills - JAVA, C, Unix Shell
+###### ![interests](interest.png)Interested at : Computer Graphics / VR / Game Design / Charagter Design
+##### ![skills](setting.png)Skills - JAVA, C, Unix Shell
 
-![timeline](timeline.png) 2018. 2. 26 한림대학교 입학
+![timeline](timelinee.png) 2018. 2. 26 한림대학교 입학
 
            소프트웨어 중심대학 홍보 동아리 'SWID'의 동아리 운영
 
