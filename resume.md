@@ -3,11 +3,11 @@ Resume
 ### 한림대학교 소프트웨어대학 컨텐츠 IT, 디지털인문예술 전공
 #### 20185162 전유빈
 * * *
-###### 연락처 : 010-8668-3917
-###### 이메일 : fligger515@gmail.com
+###### H.P : 010-8668-3917
+###### E-mail : fligger515@gmail.com
 ###### GitHub 주소 : <https://github.com/fligger515>
 * * *
-##### 관심 분야 : 영상처리, VR, 게임 개발  
+###### Interested at : Computer Graphics / VR / Game Design / Charagter Design
 ![VR](vr.jpg) |  ![GameDesign](Design.jpg) |  ![Graphics](Graphic.png)
 ##### Skills - JAVA, C, Unix Shell
 
@@ -19,6 +19,6 @@ Resume
 
 학술동아리 '씨애랑' 동아리원
            
-- 현재 한림대학교 Software Week 중 열리는 SW 전시회에 출품할 작품 제작 중
+- 현재 한림대학교 Software Week 중 열리는 SW 전시회에 출품할 작품 제작 중 ('DukeAdventure' 게임)
 
-###### Computer Graphics / VR / Game Design / Charagter Design
+
